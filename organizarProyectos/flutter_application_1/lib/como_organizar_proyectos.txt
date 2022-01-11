@@ -1,0 +1,6 @@
+lib: directorio raiz
+    src: 
+        screens : contiene los archivos que llevan a diferentes ventanas 
+        app.dart: archivo donde contiene el MaterialApp
+    
+    main.dart: es el archivo que arranca la app( void main() => runApp(MyApp(); ))
