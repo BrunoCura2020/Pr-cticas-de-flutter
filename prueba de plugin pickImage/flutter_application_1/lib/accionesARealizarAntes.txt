@@ -1,0 +1,12 @@
+ir a: 
+IOS:
+    Runner:
+        info.plist
+            <key>NSPhotoLibraryUsageDescription</key>
+            <string>Can I use the PhotoLibrary please?</string>
+            <key>NSMicrophoneUsageDescription</key>
+            <string>Can i use the mic please?</string>
+            <key>NScameraUsageDescription</key>
+            <string>Can I use camera please?</string>
+
+//para especificarle para que necesitamos esos permisos en IOS
