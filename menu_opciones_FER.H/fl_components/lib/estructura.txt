@@ -1,0 +1,6 @@
+screens: se encontraran todas las pantallas de mi aplicación
+screens/screens: es donde estarán todas las importaciones de mis pantallas, el archivo se llamará igual que la carpeta
+router/app_router: tendrá la clase de todas las rutas
+models/menu_option.dart: estará la definición de lo que tendrá mi clase en app_route
+models/models.dart: tendrá las importaciones de la carpeta models
+theme/app_theme: lo usamos para defininir los estilos de forma global de nuestra app

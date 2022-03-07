@@ -13,7 +13,7 @@ class MyHomePage extends StatelessWidget {
         //itemCount: 50: para que aparezca 50 imagenes
         itemCount: 50,
         itemBuilder: (context, index) {
-          final url = 'https://picsum.photos/id/$index/410/300';
+          final url = 'https://picsum.photos/id/$index/410/300;
           //Card: nos da aspecto visual como una tarjeta
           //InkWell: especifica lo que tiene que suceder
           return InkWell(
