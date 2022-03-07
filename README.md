@@ -1,2 +1,2 @@
 # PracticasEnFlutter
-La mayoria de mis prácticas se encuentran en este repositorio
+La mayoria de mis prácticas en Flutter se encuentran en este repositorio.
